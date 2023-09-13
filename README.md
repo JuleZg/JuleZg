@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JuleZg
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning Html, Css, JavaScript, Python
 
 
